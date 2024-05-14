@@ -4,3 +4,4 @@ twice
 newjeans
 redvelvet
 aespa
+Le sserafim
