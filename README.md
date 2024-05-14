@@ -1,7 +1,9 @@
 Hi im junvell currently studying
-I love 
+I like
 twice
 newjeans
 redvelvet
 aespa
 Le sserafim
+itzy
+ive
