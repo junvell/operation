@@ -1,7 +1,7 @@
 public class arithhmeticoperation {
     public static void main(String[] args) {
-        int num1 = 56;
-        int num2 = 23;
+        int num1 = 67;
+        int num2 = 14;
 
         int sum = num1 + num2;
          System.out.println("Sum: " + sum);
