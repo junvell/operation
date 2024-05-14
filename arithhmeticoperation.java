@@ -4,15 +4,15 @@ public class arithhmeticoperation {
         int num2 = 101;
 
         int sum = num1 + num2;
-         System.out.println("Sum: " + sum);
+         System.out.println("Sum: " + sum)
 
         int sub = num1 - num2;
-         System.out.println("subtraction: " + sub);
+         System.out.println("subtraction: " + sub)
 
         int multiply = num1 * num2;
-         System.out.println("multiply:" + multiply);
+         System.out.println("multiply:" + multiply)
         
         int divide = num1 / num2;
-         System.out.println("Division: " + divide);
+         System.out.println("Division: " + divide)
     }
 }
