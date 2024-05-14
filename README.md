@@ -1,3 +1,6 @@
 Hi im junvell currently studying
 I love kpop
-hiii
+twice
+newjeans
+redvelvet
+
