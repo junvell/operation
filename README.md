@@ -1,6 +1,6 @@
 Hi im junvell currently studying
-I love kpop
+I love 
 twice
 newjeans
 redvelvet
-
+aespa
