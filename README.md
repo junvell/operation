@@ -6,3 +6,4 @@ redvelvet
 aespa
 Le sserafim
 itzy
+ive
